@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\posco\source\repos\MyStack\MyStack\main.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Stack.cpp
+C:\Users\posco\source\repos\MyStack\MyStack\Stack.cpp(22,17): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  MyStack.vcxproj -> C:\Users\posco\source\repos\MyStack\x64\Debug\MyStack.exe
