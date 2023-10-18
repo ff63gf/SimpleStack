@@ -3,6 +3,7 @@
 
 void main()
 {
+	// 이것은 주석입니다.
 	Stack stack;
 
 	// 3개의 데이터를 삽입
